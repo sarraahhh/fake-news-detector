@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -6,7 +6,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Textarea Styling */
 textarea {
     width: 80%;
     height: 100px;
@@ -16,7 +15,6 @@ textarea {
     border-radius: 5px;
 }
 
-/* Button Styling */
 button {
     padding: 10px 20px;
     font-size: 16px;
